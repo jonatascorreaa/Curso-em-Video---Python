@@ -1,0 +1,1 @@
+Estudos sobre Python atraves do canal Curso em Video
